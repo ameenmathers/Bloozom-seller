@@ -14,10 +14,10 @@
     <link rel="stylesheet" href="asset/css/ui.css">
     <link rel="stylesheet" href="asset/css/style.css">
     <link rel="stylesheet" href="asset/css/responsive.css">
-    <title>Create Category</title>
+    <title>Create Seller</title>
 </head>
 
-<body style="background-color: #f2f2f2;">
+<body style="background-color: #F2F2F2;">
 
 <header class="section-header">
 
@@ -30,7 +30,7 @@
                     <!-- brand-wrap.// -->
                 </div>
                 <div class="col-lg-4 col-sm-12 d-flex order-3 p-2 text-white">
-                    <h4><strong>Send Request Page</strong></h4>
+                    <h4><strong>Create Seller Account</strong></h4>
                 </div>
                 <!-- col.// -->
                 <div class="col-lg-3 col-sm-9 col-10 order-2 order-lg-3">
@@ -39,6 +39,7 @@
 
                         <!-- widget  dropdown.// -->
                         <div class="widget-header ml-3">
+
                         </div>
                     </div>
                     <!-- widgets-wrap.// -->
@@ -53,63 +54,59 @@
 </header>
 
 <br>
+<br>
+
 
 <div class="container">
 
     <div class="row">
         <div class="col-md-3"></div>
-        <div class="col-md-6 card" style="padding: 50px; height: 570px;">
-
+        <div class="col-md-6 card" style="padding: 20px;">
+            <div class="text-center align-items-center">
+                <i style="color: #02499B;" class="fa fa-user-circle fa-3x"></i>
+                <p style="color: #02499B;">Upload Picture</p>
+            </div>
             <form>
                 <div class="form-group">
-                    <label for="manu" style="color: #02499B;"><strong>Manufacturers</strong></label>
-                    <input style="border: 2px solid #02499B ;color: #02499B; background-color: #F5F5F5;" id="manu" class="form-control" type="text" placeholder="">
+                    <label for="account-number">Seller Name</label>
+                    <input  id="account-number" class="form-control" type="text" placeholder="Enter Name">
                 </div>
-
                 <br>
                 <div class="form-group">
-                    <div class="row">
-                        <div class="col-md-6">
-                            <label for="subcat" style="color: #02499B;"><strong>Add Documents</strong></label>
-                            <input style="border: 2px solid #02499B ;color: #02499B;" id="subcat" class="form-control-file" type="file">
-
-                        </div>
-
-                        <div class="col-md-6">
-                            <label for="amount" style="color: #02499B;"><strong>Amount</strong></label>
-                            <select style="border: 2px solid #02499B ;color: #02499B;" id="amount" class="form-control" type="text">
-                                <option>N</option>
-                                <option>$</option>
-                                <option></option>
-                            </select>
-                        </div>
-                    </div>
+                    <label for="service">Service Description</label>
+                    <input  id="service" class="form-control" type="text" placeholder="">
                 </div>
-
+                <br>
+                <div class="form-group">
+                    <label for="shop">Shop Address</label>
+                    <input  id="shop" class="form-control" type="text" placeholder="">
+                </div>
+                <br>
 
                 <div class="form-group">
-                    <label for="desc" style="color: #02499B;"><strong>Description</strong></label>
-                    <textarea style="border: 2px solid #02499B ;color: #02499B; background-color: #F5F5F5;" id="desc" class="form-control" type="text" placeholder=""></textarea>
+                    <label for="username">Username</label>
+                    <input  id="username" class="form-control" type="text" placeholder="Enter a valid username">
                 </div>
-
+                <br>
                 <div class="form-group">
-                    <label for="action" style="color: #02499B;"><strong>Action</strong></label>
-                    <select style="border: 2px solid #02499B ;color: #02499B;" id="action" class="form-control" type="text">
-                        <option></option>
-                        <option></option>
-                        <option></option>
+                    <label for="password">Password</label>
+                    <input  id="password" class="form-control" type="text" placeholder="Create a unique password">
+                </div>
+                <br>
+                <div class="form-group">
+                    <label for="stage">Stage</label><br>
+                    <select id="stage">
+                        <option>Stage 1</option>
+                        <option>Stage 2</option>
+                        <option>Stage 3</option>
                     </select>
                 </div>
-
-
                 <br><br>
-                <br>
 
+                <button class="btn" style="border: 1px solid white; margin-left: 200px; width: 150px; background-color:#AF2E1D; border-radius: 20px; color: white;">SUBMIT</button>
 
-
-
-                <button class="btn bloomzon_btn">SEND</button>
             </form>
+            <br><br>
         </div>
         <div class="col-md-3"></div>
     </div>
@@ -119,11 +116,8 @@
 
 
 
+
 </div>
-
-
-
-
 
 
 

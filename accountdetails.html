@@ -14,23 +14,23 @@
     <link rel="stylesheet" href="asset/css/ui.css">
     <link rel="stylesheet" href="asset/css/style.css">
     <link rel="stylesheet" href="asset/css/responsive.css">
-    <title>Create Category</title>
+    <title>Account Details</title>
 </head>
 
-<body style="background-color: #f2f2f2;">
+<body style="background-image: url('asset/img/chat_bg.png');">
 
 <header class="section-header">
 
     <section class="header-top" style="height: 60px;">
         <div class="container">
             <div class="row align-items-center">
-                <div class="col-lg-5 col-sm-5 col-5 ">
+                <div class="col-lg-4 col-sm-5 col-5 ">
                     <a href="/" class="brand-wrap">
                     </a>
                     <!-- brand-wrap.// -->
                 </div>
                 <div class="col-lg-4 col-sm-12 d-flex order-3 p-2 text-white">
-                    <h4><strong>Create New Category</strong></h4>
+                    <h4><strong>Update Your Account Details</strong></h4>
                 </div>
                 <!-- col.// -->
                 <div class="col-lg-3 col-sm-9 col-10 order-2 order-lg-3">
@@ -39,7 +39,6 @@
 
                         <!-- widget  dropdown.// -->
                         <div class="widget-header ml-3">
-                            <a class="btn" style="background-color: white; width: 170px; color: #02499B">View All</a>
 
                         </div>
                     </div>
@@ -59,42 +58,61 @@
 
 
 <div class="container">
+    <div class="row">
+        <div class="col-md-5">
+
+
+        </div>
+        <div class="col-md-4">
+           <img src="asset/img/card.png">
+        </div>
+        <div class="col-md-3">
+
+        </div>
+    </div>
+</div>
+
+<br>
+<br>
+
+<div class="container">
 
     <div class="row">
         <div class="col-md-3"></div>
-        <div class="col-md-6 card" style="padding: 50px; height: 570px;">
-            <br><br>
-            <br>
-
+        <div class="col-md-6">
             <form>
                 <div class="form-group">
-                    <label for="category" style="color: #02499B;"><strong>Category</strong></label>
-                    <input style="border: 2px solid #02499B ;color: #02499B;" id="category" class="form-control" type="text" placeholder="Accessories">
-                </div>
+                    <div class="row">
+                        <div class="col-md-6">
+                            <label for="bank">Bank</label>
+                        </div>
+                        <div class="col-md-6">
+                            <select  id="bank" class="form-control" type="file">
+                                <option selected>Select Bank</option>
+                                <option>Zenith Bank</option>
+                                <option>Access Bank</option>
+                                <option>Diamond Bank</option>
+                                <option>Keystone Bank</option>
+                            </select>
+                        </div>
+                    </div>
 
-                <br>
+                </div>
+                <div class="form-group">
+                    <label for="account-number">Account Number</label>
+                    <input  id="account-number" class="form-control" type="text" placeholder="0000000000">
+                </div>
                 <br>
                 <div class="form-group">
-                    <label for="subcat" style="color: #02499B;"><strong>Sub Category</strong></label>
-                    <input style="border: 2px solid #02499B ;color: #02499B;" id="subcat" class="form-control" type="text" placeholder="Baby wears">
+                    <label for="phone">Mobile Number</label>
+                    <input id="phone" class="form-control" type="text" placeholder="0000000000">
                 </div>
-
-
-                <div class="row">
-                    <div class="col-md-10"></div>
-                    <div class="col-md-2">
-                        <button class="btn" style="width: 80px; border-radius: 10px; background-color: #535057; color: white;">Add</button>
-                    </div>
-                </div>
-
-                <br><br>
                 <br><br>
 
+                <button class="btn" style="border: 1px solid white; margin-left: 200px; width: 150px; background-color:#AF2E1D; border-radius: 20px; color: white;">SAVE</button>
 
-
-
-                <button class="btn bloomzon_btn">SAVE</button>
             </form>
+            <br><br>
         </div>
         <div class="col-md-3"></div>
     </div>
@@ -104,10 +122,8 @@
 
 
 
+
 </div>
-
-
-
 
 
 

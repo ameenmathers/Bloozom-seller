@@ -14,14 +14,14 @@
     <link rel="stylesheet" href="asset/css/ui.css">
     <link rel="stylesheet" href="asset/css/style.css">
     <link rel="stylesheet" href="asset/css/responsive.css">
-    <title>Create New User</title>
+    <title>Verify Your Account</title>
 </head>
 
-<body style="background-color: #f2f2f2;">
+<body style="background-color: #F2F2F2;">
 
 <header class="section-header">
 
-    <section class="header-top2" style="height: 60px;">
+    <section class="header-top" style="height: 60px;">
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-5 col-sm-5 col-5 ">
@@ -30,7 +30,7 @@
                     <!-- brand-wrap.// -->
                 </div>
                 <div class="col-lg-4 col-sm-12 d-flex order-3 p-2 text-white">
-                    <h5><strong>Send Out Newsletter</strong></h5>
+                    <h4><strong>Verify Your Account</strong></h4>
                 </div>
                 <!-- col.// -->
                 <div class="col-lg-3 col-sm-9 col-10 order-2 order-lg-3">
@@ -39,6 +39,7 @@
 
                         <!-- widget  dropdown.// -->
                         <div class="widget-header ml-3">
+
                         </div>
                     </div>
                     <!-- widgets-wrap.// -->
@@ -59,51 +60,32 @@
 <div class="container">
 
     <div class="row">
-        <div class="col-md-2"></div>
-        <div class="col-md-8">
+        <div class="col-md-3"></div>
+        <div class="col-md-6 card" style="padding: 20px;">
             <form>
                 <div class="form-group">
-                    <div class="row">
-                        <div class="col-md-2">
-                            <label for="subject">Subject:</label>
-                        </div>
-                        <div class="col-md-10">
-                            <input  id="subject" class="form-control" type="text" placeholder="">
-
-                        </div>
-                    </div>
-
+                    <label for="account-number">Proof Address</label>
+                    <input  id="account-number" class="form-control-file" type="file" placeholder="">
                 </div>
                 <br>
                 <div class="form-group">
-                    <div class="row">
-                        <div class="col-md-2">
-                            <label for="image">Image:</label>
-                        </div>
-                        <div class="col-md-10">
-                            <input  id="image" class="form-control-file" type="file" placeholder="">
-
-                        </div>
-                    </div>
-
+                    <label for="validid">Valid ID</label>
+                    <input  id="validid" class="form-control-file" type="file" placeholder="">
                 </div>
                 <br>
                 <div class="form-group">
-                    <label for="message">Messages</label>
-                    <textarea style="height: 180px;"  id="message" class="form-control" type="text" placeholder=""></textarea>
+                    <label for="narration">Narration</label>
+                    <textarea  id="narration" class="form-control" type="text" placeholder="Create an application to be verified"></textarea>
                 </div>
+                <br>
+                <br><br>
 
-                <div class="row">
-                    <div class="col-md-8"></div>
-                    <div class="col-md-2">
-                        <button class="btn bloomzon_btnsm">Send</button>
-                    </div>
-                    <div class="col-md-2"></div>
+                <button class="btn" style="border: 1px solid white; margin-left: 200px; width: 150px; background-color:#AF2E1D; border-radius: 20px; color: white;">SEND</button>
 
-                </div>
             </form>
+            <br><br>
         </div>
-        <div class="col-md-2"></div>
+        <div class="col-md-3"></div>
     </div>
 
 
@@ -111,10 +93,8 @@
 
 
 
+
 </div>
-
-
-
 
 
 

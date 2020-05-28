@@ -1,7 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="af00f496-3caf-4e96-8cb6-8bf1355fb44e" name="Default Changelist" comment="" />
+    <list default="true" id="af00f496-3caf-4e96-8cb6-8bf1355fb44e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contact-admin.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/createseller.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/histogram.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notification.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verification.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallet.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/accountstatement.html" beforeDir="false" afterPath="$PROJECT_DIR$/accountdetails.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/activeusers.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/adminlogin.html" beforeDir="false" afterPath="$PROJECT_DIR$/otp.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/advert.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agentdashboard.html" beforeDir="false" afterPath="$PROJECT_DIR$/agentdashboard.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allcategory.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allnewslettersubcribers.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allsubscribers.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allusers.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/asset/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bloomzonproduct.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/createcategory.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/createnewuser.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deliverypayout.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/editprofile.html" beforeDir="false" afterPath="$PROJECT_DIR$/editprofile.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastfoodpayout.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocerypayout.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inactiveusers.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manufacturer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manufacturerpayout.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkingagentpayout.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/newsletter.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/privacypolicy.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/profile.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proservicepayout.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/refundpolicy.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/review.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rightofpruchase.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sendrequest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.html" beforeDir="false" afterPath="$PROJECT_DIR$/faq.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/terms.html" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,7 +57,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1bb7BPVit4TXYrkjc0wF6puzJiz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -26,6 +70,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
@@ -44,7 +89,7 @@
       <workItem from="1590226780311" duration="10205000" />
       <workItem from="1590339623708" duration="534000" />
       <workItem from="1590527130710" duration="31922000" />
-      <workItem from="1590620163026" duration="5109000" />
+      <workItem from="1590620163026" duration="19639000" />
     </task>
     <servers />
   </component>
@@ -52,13 +97,21 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1590572255860">
+    <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1590678911473">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1590572255860" />
-    <state x="385" y="112" width="670" height="676" key="search.everywhere.popup" timestamp="1590584478264">
+    <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1590678911473" />
+    <state x="575" y="354" key="Github.ShareDialog" timestamp="1590667033623">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="385" y="112" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1590584478264" />
+    <state x="575" y="354" key="Github.ShareDialog/0.0.1440.900@0.0.1440.900" timestamp="1590667033623" />
+    <state x="509" y="162" key="Github.UntrackedFilesDialog" timestamp="1590667040383">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="509" y="162" key="Github.UntrackedFilesDialog/0.0.1440.900@0.0.1440.900" timestamp="1590667040383" />
+    <state x="385" y="112" width="670" height="676" key="search.everywhere.popup" timestamp="1590669913341">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="112" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1590669913341" />
   </component>
 </project>

@@ -406,3 +406,12 @@ a {
     border: none;
     border-radius: 50px
 }
+
+.profile{
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    background-color: #535057;
+    color: white;
+    height: 30px;
+    font-size: 12px;
+}
