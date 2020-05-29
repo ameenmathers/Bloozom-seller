@@ -2,34 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af00f496-3caf-4e96-8cb6-8bf1355fb44e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/activeusers.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/addnewproduct.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allproducts.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/img/bloomzonicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/img/chair.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/img/dashicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/img/dashicon2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/img/dashicon3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/img/dashicon4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/img/dashicon5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/img/dashicon6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/img/ordericon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/img/producticon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/img/reviewicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/img/salesicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/img/settingsicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bloomzonsales.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/review.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/saledetail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sales.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Bloozom-agent.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Bloozom-seller.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/accountupgrade.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/accountupgrade2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/policy.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/promotion.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/promotion2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wallethistory.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/agentdashboard.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/createseller.html" beforeDir="false" afterPath="$PROJECT_DIR$/accounttype.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/profile.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/accounttype.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/activeusers.html" beforeDir="false" afterPath="$PROJECT_DIR$/orders.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/addnewproduct.html" beforeDir="false" afterPath="$PROJECT_DIR$/addnewproduct.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allproducts.html" beforeDir="false" afterPath="$PROJECT_DIR$/allproducts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset/img/chair.png" beforeDir="false" afterPath="$PROJECT_DIR$/asset/img/chair.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.html" beforeDir="false" afterPath="$PROJECT_DIR$/settings.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wallet.html" beforeDir="false" afterPath="$PROJECT_DIR$/wallet.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +50,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -84,6 +73,14 @@
       <workItem from="1590697544204" duration="1450000" />
       <workItem from="1590699668574" duration="1144000" />
       <workItem from="1590701937201" duration="322000" />
+      <workItem from="1590702307746" duration="460000" />
+      <workItem from="1590766367024" duration="914000" />
+      <workItem from="1590776745165" duration="1783000" />
+      <workItem from="1590778632729" duration="1506000" />
+      <workItem from="1590780473858" duration="1737000" />
+      <workItem from="1590782292347" duration="1359000" />
+      <workItem from="1590784110090" duration="1090000" />
+      <workItem from="1590785928080" duration="1148000" />
     </task>
     <task id="LOCAL-00001" summary="UI Adjustments">
       <created>1590684987288</created>
@@ -92,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590684987288</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="UI Adjustments">
+      <created>1590702434093</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1590702434093</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,22 +111,30 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1590678911473" />
-    <state x="304" y="25" key="CommitChangelistDialog2" timestamp="1590684987073">
+    <state x="304" y="25" key="CommitChangelistDialog2" timestamp="1590702433872">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="304" y="25" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1590684987073" />
+    <state x="304" y="25" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1590702433872" />
     <state x="462" y="324" key="Github.CreatePullRequestDialog" timestamp="1590702167034">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="462" y="324" key="Github.CreatePullRequestDialog/0.0.1440.900@0.0.1440.900" timestamp="1590702167034" />
-    <state x="575" y="354" key="Github.ShareDialog" timestamp="1590667033623">
+    <state x="575" y="354" key="Github.ShareDialog" timestamp="1590702499618">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="575" y="354" key="Github.ShareDialog/0.0.1440.900@0.0.1440.900" timestamp="1590667033623" />
+    <state x="575" y="354" key="Github.ShareDialog/0.0.1440.900@0.0.1440.900" timestamp="1590702499618" />
     <state x="509" y="162" key="Github.UntrackedFilesDialog" timestamp="1590667040383">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="509" y="162" key="Github.UntrackedFilesDialog/0.0.1440.900@0.0.1440.900" timestamp="1590667040383" />
+    <state x="229" y="89" key="SettingsEditor" timestamp="1590780589157">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="229" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1590780589157" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1590702385002">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1590702385002" />
     <state x="365" y="189" key="com.intellij.dvcs.ui.CompareBranchesDialog" timestamp="1590702141754">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
