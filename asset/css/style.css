@@ -273,10 +273,8 @@ h6 {
 .siddy{
     list-style: none;
     padding: 40px;
-    width: 414px;
-    position: absolute;
+    width: 400px;
     color:#02499B;
-    border-radius: 20px;
     background-color:  #FFFFFF;
 
 }
